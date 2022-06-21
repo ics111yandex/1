@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "Dz_1/1.0.0": {
+      "Dz1_1/1.0.0": {
         "runtime": {
-          "Dz_1.dll": {}
+          "Dz1_1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Dz_1/1.0.0": {
+    "Dz1_1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
