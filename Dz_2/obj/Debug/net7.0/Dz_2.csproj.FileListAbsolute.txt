@@ -1,0 +1,15 @@
+C:\Users\Алексей\Dz1\Dz_2\bin\Debug\net7.0\Dz_2.exe
+C:\Users\Алексей\Dz1\Dz_2\bin\Debug\net7.0\Dz_2.deps.json
+C:\Users\Алексей\Dz1\Dz_2\bin\Debug\net7.0\Dz_2.runtimeconfig.json
+C:\Users\Алексей\Dz1\Dz_2\bin\Debug\net7.0\Dz_2.dll
+C:\Users\Алексей\Dz1\Dz_2\bin\Debug\net7.0\Dz_2.pdb
+C:\Users\Алексей\Dz1\Dz_2\obj\Debug\net7.0\Dz_2.csproj.AssemblyReference.cache
+C:\Users\Алексей\Dz1\Dz_2\obj\Debug\net7.0\Dz_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Dz1\Dz_2\obj\Debug\net7.0\Dz_2.AssemblyInfoInputs.cache
+C:\Users\Алексей\Dz1\Dz_2\obj\Debug\net7.0\Dz_2.AssemblyInfo.cs
+C:\Users\Алексей\Dz1\Dz_2\obj\Debug\net7.0\Dz_2.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Dz1\Dz_2\obj\Debug\net7.0\Dz_2.dll
+C:\Users\Алексей\Dz1\Dz_2\obj\Debug\net7.0\refint\Dz_2.dll
+C:\Users\Алексей\Dz1\Dz_2\obj\Debug\net7.0\Dz_2.pdb
+C:\Users\Алексей\Dz1\Dz_2\obj\Debug\net7.0\Dz_2.genruntimeconfig.cache
+C:\Users\Алексей\Dz1\Dz_2\obj\Debug\net7.0\ref\Dz_2.dll
